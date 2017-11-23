@@ -1,5 +1,3 @@
-package uebung4.RobotAdapter;
-
 public class Robot {
 	private double positionX;
 	private double positionY;

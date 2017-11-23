@@ -1,5 +1,3 @@
-package uebung4.RobotAdapter;
-
 public interface Spieler {
 
 	public int geheNachLinks(int a);

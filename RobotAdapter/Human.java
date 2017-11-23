@@ -1,5 +1,3 @@
-package uebung4.RobotAdapter;
-
 public class Human implements Spieler {
 	int positionX = 0;
 	int positionY = 0;

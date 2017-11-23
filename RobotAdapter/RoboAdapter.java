@@ -1,5 +1,3 @@
-package uebung4.RobotAdapter;
-
 public class RoboAdapter implements Spieler {
 	Robot roboter;
 
