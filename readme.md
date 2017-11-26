@@ -54,7 +54,8 @@ Welche der folgenden Aussagen ist korrekt?
 ## Aufgabe 7
 Schauen Sie sich die Java Dateien im Ordner RobotAdapter an: Die Spielfiguren in einem Computerspiel müssen alle das Interface Spieler implementieren. Die Klasse Human tut dies. Nun hat eine Zulieferfirma den Code für einen Roboter geschrieben (Robot.java). Leider haben Sie auf diesen keinen Einfluss und müssen den Roboter so in ihr Spiel integrieren. Welches Pattern eignet sich dafür? Implementieren Sie den entsprechenden Code.
 
-# Zusätzliche Materialien (wird nach und nach erweitert, bis alle Inhalte die keine Folien haben hier vorhanden sind. Daher immer wieder reinschauen)
+# Zusätzliche Materialien
+(wird nach und nach erweitert, bis alle Inhalte die keine Folien haben hier vorhanden sind. Daher immer wieder reinschauen)
 ## Literatur zur Programmierung
 Knappe Angabe, welche Bereiche des Buchs "Java ist auch eine Insel" von Christian Ullenboom zur Recherche geeignet sind. Es kann vorkommen, dass einzelne Spezialitäten nicht in der Vorlesung behandelt worden sind. Die Zusammenfassung unten versucht den Inhalt so gut es geht auf die in "Einführung in die Programmierung" und "Information Systems Engineering" behandelten Themen zu reduzieren.
 
