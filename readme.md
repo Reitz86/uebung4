@@ -55,45 +55,45 @@ Welche der folgenden Aussagen ist korrekt?
 Schauen Sie sich die Java Dateien im Ordner RobotAdapter an: Die Spielfiguren in einem Computerspiel müssen alle das Interface Spieler implementieren. Die Klasse Human tut dies. Nun hat eine Zulieferfirma den Code für einen Roboter geschrieben (Robot.java). Leider haben Sie auf diesen keinen Einfluss und müssen den Roboter so in ihr Spiel integrieren. Welches Pattern eignet sich dafür? Implementieren Sie den entsprechenden Code.
 
 # Zusätzliche Materialien (wird nach und nach erweitert, bis alle Inhalte die keine Folien haben hier vorhanden sind. Daher immer wieder reinschauen)
-##Literatur zur Programmierung
+## Literatur zur Programmierung
 Knappe Angabe, welche Bereiche des Buchs "Java ist auch eine Insel" von Christian Ullenboom zur Recherche geeignet sind. Es kann vorkommen, dass einzelne Spezialitäten nicht in der Vorlesung behandelt worden sind. Die Zusammenfassung unten versucht den Inhalt so gut es geht auf die in "Einführung in die Programmierung" und "Information Systems Engineering" behandelten Themen zu reduzieren.
 
-###1.5 Das erste Programm compilieren und testen
+### 1.5 Das erste Programm compilieren und testen
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_01_005.html#dodtp86b7140e-a27a-4d07-8007-372cf0a9fc88
 
-###2 Imperative Sprachkonzepte (bis 2.7.12)
+### 2 Imperative Sprachkonzepte (bis 2.7.12)
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_02_001.html#dodtp332f236b-44e2-4fc6-a101-14774985570c
 
-###3 Klassen und Objekte
+### 3 Klassen und Objekte
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_03_001.html#dodtp394ff2f8-9134-4eb3-a6b4-469ed4572a74
 
-###4.5 Konvertieren zwischen Primitiven und StringsZur nächsten Überschrift
+### 4.5 Konvertieren zwischen Primitiven und StringsZur nächsten Überschrift
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_04_005.html#dodtpa464e970-fb6f-47bd-bf9c-d6cb1f0b5349
 
-###6 Exceptions
+### 6 Exceptions
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_06_001.html#dodtp97490f9b-54f8-4fd3-a4d6-482f5243e8ee
-###-6.1.7 throws im Methodenkopf angeben
+### -6.1.7 throws im Methodenkopf angeben
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_06_001.html#dodtp4dc6c4dc-085f-4ebb-ac61-1af419ac8372
 
-###5 Eigene Klassen schreiben
+### 5 Eigene Klassen schreiben
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_05_001.html#dodtp44e7828f-b21f-41d3-9c25-d36ace6e35b4
 
-###7.3.2 Die this-Referenz
+### 7.3.2 Die this-Referenz
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_07_003.html#dodtp746f8034-cbf4-4f52-ac3f-64a3c9d5f61b
 
-###8.3 Object ist die Mutter aller Klassen (generell, speziell nur toString())
+### 8.3 Object ist die Mutter aller Klassen (generell, speziell nur toString())
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_08_003.html#dodtpe2738381-3e34-44c9-9fea-fadba7f7b82d
 
-###10.2 Design-Pattern (Entwurfsmuster)
+### 10.2 Design-Pattern (Entwurfsmuster)
 http://openbook.rheinwerk-verlag.de/javainsel/javainsel_10_002.html#dodtpa1401ab7-6470-4217-bc05-d2973590bbe8
 
-##UML
+## UML
 Hier bitte die Literaturangaben aus dem Skript beachten. Zusätzlich zu den Videos im CLM  sind die folgenden Bücher zum Studium geeignet:
 UML @ Classroom: Eine Einführung in die objektorientierte Modellierung (https://www.amazon.de/UML-Classroom-Einf%C3%BChrung-objektorientierte-Modellierung/dp/3898647765)
 UML 2 glasklar: Praxiswissen für die UML-Modellierung (https://www.amazon.de/UML-glasklar-Praxiswissen-f%C3%BCr-UML-Modellierung/dp/3446430571/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=NWWSJCZAZBCMKDWB24Z0)
 
 
-##Patterns
+## Patterns
 ### Adapter Pattern
 1. Einfache Einführung als Video: https://www.video2brain.com/de/tutorial/passt-schon-adapter
 2. Technische Beschreibung mit Beispielen (Folie 47-50): https://homepages.fhv.at/hv/Semester4/OOAD/Patterns.pdf
